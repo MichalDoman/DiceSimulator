@@ -16,7 +16,7 @@ Throw number 4: 4
 Throw number 5: 5
 Your score was: 11!
 ```
-The program allows any type of dice, even if were be impossible in real life:
+The program allows any type of dice, even if were impossible in real life:
 ```
 Type in the code and the system will generate the moves: 5D13
 Throw number 1: 3
